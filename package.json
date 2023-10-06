@@ -30,7 +30,7 @@
     "payment intents",
     "cross platform"
   ],
-  "author": "Naoufal Kadhom & Freeman Industries",
+  "author": "otimoshc",
   "license": "MIT",
   "dependencies": {
     "es6-error": "^4.0.2",
